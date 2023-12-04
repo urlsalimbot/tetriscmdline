@@ -1,7 +1,0 @@
-﻿  FinalReq.cpp
-C:\Users\Typw\source\repos\FinalReq\FinalReq\FinalReq.cpp(188,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
-  Generating code
-  Previous IPDB not found, fall back to full compilation.
-  All 178 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
-  Finished generating code
-  FinalReq.vcxproj -> C:\Users\Typw\source\repos\FinalReq\x64\Release\FinalReq.exe
