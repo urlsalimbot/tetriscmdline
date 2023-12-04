@@ -1,4 +1,4 @@
-TETRIS-like game for Windows Commandline
+# TETRIS-like game for Windows Commandline
 
 
-Final Requirement for a course
+## Final Requirement for a course
