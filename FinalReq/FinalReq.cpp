@@ -383,9 +383,10 @@ int main()
 		//instructions
 		swprintf_s(&screen[4 * screenWidth + playFieldWidth + 18], 26, L"Move Left & Right : < + >");
 		swprintf_s(&screen[5 * screenWidth + playFieldWidth + 18], 21, L"Soft Drop : D ArwKey");
-		swprintf_s(&screen[6 * screenWidth + playFieldWidth + 18], 19, L"Rotate CCW : C Key");
-		swprintf_s(&screen[7 * screenWidth + playFieldWidth + 18], 21, L"Rotate CW : U ArwKey");
-		swprintf_s(&screen[8 * screenWidth + playFieldWidth + 18], 14, L"Stash : Shift");
+		swprintf_s(&screen[6 * screenWidth + playFieldWidth + 18], 21, L"Hard Drop : Spacebar");
+		swprintf_s(&screen[7 * screenWidth + playFieldWidth + 18], 19, L"Rotate CCW : C Key");
+		swprintf_s(&screen[8 * screenWidth + playFieldWidth + 18], 21, L"Rotate CW : U ArwKey");
+		swprintf_s(&screen[9 * screenWidth + playFieldWidth + 18], 14, L"Stash : Shift");
 
 		//display stashed piece
 		swprintf_s(&screen[10 * screenWidth + playFieldWidth + 4], 14, L"Stashed Piece");
